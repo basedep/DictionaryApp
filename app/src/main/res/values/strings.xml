@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Dictionary app</string>
+    <string name="word_placeholder">word placeholder</string>
+    <string name="short_description_placeholder">short description placeholder</string>
 </resources>

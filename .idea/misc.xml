@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1625" />
+        <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.1625" />
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/drawable/search_view_shape.xml" value="0.205" />
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/layout/list_item.xml" value="0.2" />
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/layout/search_fragment.xml" value="0.264" />
       </map>
     </option>
