@@ -5,15 +5,20 @@
       <map>
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.1665" />
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/drawable/bottom_nav_shape.xml" value="0.136" />
+        <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1595" />
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1625" />
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.1625" />
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/drawable/ic_baseline_keyboard_voice_24.xml" value="0.1515" />
+        <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1595" />
+        <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1595" />
+        <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1595" />
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/drawable/search_view_shape.xml" value="0.205" />
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/drawable/selected_bottom_nav_item.xml" value="0.1665" />
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/drawable/selected_bottom_nav_shape.xml" value="0.1665" />
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/drawable/selector_bottom_navigation.xml" value="0.1665" />
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/drawable/selector_bottom_navigation_night.xml" value="0.1665" />
-        <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/layout/favorite_fragment.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/layout/list_item.xml" value="0.264" />
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/layout/search_fragment.xml" value="0.264" />
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.16" />

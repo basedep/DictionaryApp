@@ -1,4 +1,4 @@
-package projects.vaid.dictionaryapp.ui
+package projects.vaid.dictionaryapp.ui.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
