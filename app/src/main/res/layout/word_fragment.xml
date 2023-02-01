@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/word_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+        <TextView
+            android:id="@+id/word"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="28dp"
+            android:layout_marginEnd="8dp"
+            android:fontFamily="@font/cairo"
+            tools:text="Hello"
+            android:textColor="@color/primary_text"
+            android:textSize="32sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/word_toolbar" />
+
+        <TextView
+            android:id="@+id/phonetic_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="/həˈləʊ/"
+            android:textColor="@color/secondary_text"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toEndOf="@+id/word"
+            app:layout_constraintStart_toStartOf="@+id/word"
+            app:layout_constraintTop_toBottomOf="@+id/word" />
+
+        <TextView
+            android:id="@+id/meaning"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="28dp"
+            android:fontFamily="@font/cairo"
+            android:text="Meaning:"
+            android:textColor="@color/primary_text"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.06"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/phonetic_text" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_meaning"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        tools:listitem="@layout/list_item_meaning"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/meaning" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

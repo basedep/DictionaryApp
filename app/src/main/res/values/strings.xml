@@ -5,4 +5,8 @@
     <string name="search">Поиск</string>
     <string name="favorite">Избранное</string>
     <string name="settings">Настройки</string>
+    <string name="part_of_speech">Part of speech:</string>
+    <string name="example">Example:</string>
+    <string name="add_to_favorite">Add to favorite</string>
+    <string name="pronounce">pronounce</string>
 </resources>

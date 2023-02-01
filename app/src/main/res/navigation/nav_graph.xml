@@ -7,9 +7,23 @@
     <fragment
         android:id="@+id/favorite"
         android:name="projects.vaid.dictionaryapp.ui.fragments.FavoriteFragment"
-        android:label="FavoriteFragment" />
+        android:label="FavoriteFragment" >
+        <action
+            android:id="@+id/action_favorite_to_wordFragment"
+            app:destination="@id/wordFragment" />
+    </fragment>
+
     <fragment
         android:id="@+id/search"
         android:name="projects.vaid.dictionaryapp.ui.fragments.SearchFragment"
-        android:label="SearchFragment" />
+        android:label="SearchFragment" >
+        <action
+            android:id="@+id/action_search_to_wordFragment"
+            app:destination="@id/wordFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/wordFragment"
+        android:name="projects.vaid.dictionaryapp.ui.fragments.WordFragment"
+        android:label="WordFragment" />
 </navigation>

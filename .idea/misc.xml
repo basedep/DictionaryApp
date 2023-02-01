@@ -20,8 +20,11 @@
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/layout/favorite_fragment.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/layout/list_item.xml" value="0.264" />
+        <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/layout/list_item_meaning.xml" value="0.4" />
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/layout/search_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/layout/word_fragment.xml" value="0.264" />
         <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.16" />
+        <entry key="..\:/Users/Vaid/AndroidStudioProjects/Dictionaryapp/app/src/main/res/menu/word_toolbar_menu.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
